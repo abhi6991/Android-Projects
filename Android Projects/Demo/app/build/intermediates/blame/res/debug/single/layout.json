@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\find.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\find.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colors.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forget.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record.xml",
+        "source": "C:\\Users\\ABHISHEK\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\layout\\record.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\war.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\src\\main\\res\\drawable-hdpi\\war.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\desert.jpg",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceAppRegister\\app\\src\\main\\res\\drawable-hdpi\\desert.jpg"
+    }
+]

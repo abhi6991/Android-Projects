@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\HelloMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\HelloMusic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\HelloMusic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\HelloMusic\\app\\src\\main\\res\\layout\\music.xml"
+    }
+]

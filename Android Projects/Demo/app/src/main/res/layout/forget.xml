@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Turquoise" >
+
+    <EditText
+        android:id="@+id/fe3"
+        android:hint="REENTER YOUR PASSWORD"
+        android:textColor="@color/Brown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/fb1"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="65dp"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/fe2"
+         android:textColor="@color/Brown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/fe3"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="40dp"
+        android:ems="10"
+        android:hint="ENTER NEW PASSWORD"
+        android:inputType="textPassword">
+         
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/fb1"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="94dp"
+        android:layout_marginLeft="85dp"
+        android:background="@color/Tomato"
+        android:text="Save" />
+
+</RelativeLayout>

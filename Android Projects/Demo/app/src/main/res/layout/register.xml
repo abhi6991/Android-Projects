@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout   xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/SkyBlue">
+
+        <EditText
+            android:id="@+id/re3"
+            android:textColor="@color/Coral"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:hint="ENTER THE EMAIL"
+            android:inputType="textEmailAddress"
+            android:padding="20dp" />
+
+        <EditText
+            android:id="@+id/re4"
+            android:textColor="@color/Coral"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/re3"
+            android:hint="ENTER THE PHONE NUMBER "
+            android:inputType="phone"
+            android:padding="20dp" />
+
+        <Button
+            android:id="@+id/rb2"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/rb1"
+            android:layout_alignBottom="@+id/rb1"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:background="@color/Chocolate"
+            android:text="reset" />
+
+        <EditText
+            android:id="@+id/re2"
+            android:textColor="@color/Coral"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/re3"
+            android:layout_alignParentLeft="true"
+            android:hint="ENTER THE PASS"
+            android:inputType="textPassword"
+            android:padding="20dp" />
+
+        <EditText
+            android:id="@+id/re1"
+            android:textColor="@color/Coral"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/re2"
+            android:layout_alignParentLeft="true"
+            android:hint="ENTER THE NAME"
+            android:padding="20dp" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/re1"
+            android:layout_centerHorizontal="true"
+            android:text="Registration form"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <CheckBox
+            android:id="@+id/checkBox1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/re4"
+            android:text="Accept term and condition" 
+            android:textColor="@color/Crimson"
+            android:textStyle="bold"
+            
+            />
+
+        <Button
+            android:id="@+id/rb1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/checkBox1"
+            android:layout_marginRight="26dp"
+            android:layout_toLeftOf="@+id/rb2"
+            android:layout_weight="1"
+            android:background="@color/Chocolate"
+            android:text="register" />
+    
+    </RelativeLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/AntiqueWhite" >
+
+    <EditText
+        android:id="@+id/le2"
+        android:textColor="@color/Violet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lb2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="57dp"
+        android:hint="ENTER THE PASS"
+        android:inputType="textPassword"
+        android:padding="20dp" />
+
+    <EditText
+        android:id="@+id/le1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/le2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="23dp"
+        android:hint="ENTER THE EMAIL"
+         android:textColor="@color/Violet"
+        android:inputType="textEmailAddress"
+        android:padding="20dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/lb2"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/lb1"
+        android:layout_alignBottom="@+id/lb1"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="36dp"
+        android:layout_weight="1"
+        android:text="reset" 
+        android:background="@color/Chocolate"/>
+
+    <Button
+        android:id="@+id/lb1"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="107dp"
+        android:layout_marginLeft="38dp"
+        android:layout_weight="1"
+        android:text="login"
+         android:background="@color/Chocolate" />
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="24dp"
+        android:layout_toLeftOf="@+id/lb2"
+        android:background="@color/Wheat"
+        android:text="NEW Password" />
+
+</RelativeLayout>

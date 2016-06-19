@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="accountsprompt">Select Account</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Bank Accounts Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_college">CollegeActivity</string>
+    <string name="title_activity_college_contact">CollegeContact</string>
+    <string name="title_activity_college_courses">CollegeCourses</string>
+    <string name="title_activity_college_details">CollegeDetails</string>
+    <string name="title_activity_college_placements">CollegePlacements</string>
+    <string name="title_activity_login">Bank Accounts Manager</string>
+    <string name="title_activity_starting_point">StartingPoint</string>
+    <style name="btnStyleHaiti" parent="@android:style/Widget.Button">
+         <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/haiti_button</item>
+       <item name="android:padding">10dip</item>
+   </style>
+    <style name="btnStyleSandrift" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#FFFFFF</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/sanddrift_button</item>
+       <item name="android:padding">10dip</item>
+   </style>
+    <style name="btnStyleSeagull" parent="@android:style/Widget.Button">
+       <item name="android:textSize">15sp</item>
+       <item name="android:textStyle">bold</item>
+       <item name="android:textColor">#ffffff</item>
+       <item name="android:gravity">center</item>
+       <item name="android:shadowColor">#000000</item>
+       <item name="android:shadowDx">1</item>
+       <item name="android:shadowDy">1</item>
+       <item name="android:shadowRadius">0.6</item>
+       <item name="android:background">@drawable/seagull_button</item>
+       <item name="android:padding">10dip</item>
+   </style>
+    <style name="button_text">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#ffffff</item>
+    <item name="android:gravity">center</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:textSize">15dp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:shadowColor">#000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">2</item>
+  </style>
+    <style name="common">
+    </style>
+    <style name="common.heading">
+      
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="error">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff0000</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="heading">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

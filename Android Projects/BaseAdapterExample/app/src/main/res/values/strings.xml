@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BaseAdapterExample</string>
+    <string-array name="titles">
+        <item>Meme1</item>
+        <item>Meme2</item>
+        <item>Meme3</item>
+        <item>Meme4</item>
+        <item>Meme5</item>
+        <item>Meme6</item>
+        <item>Meme7</item>
+        <item>Meme8</item>
+        <item>Meme9</item>
+        <item>Meme10</item>
+    </string-array>
+    <string-array name="description">
+        <item>This is Meme1</item>
+        <item>This is Meme2</item>
+        <item>This is Meme3</item>
+        <item>This is Meme4</item>
+        <item>This is Meme5</item>
+        <item>This is Meme6</item>
+        <item>This is Meme7</item>
+        <item>This is Meme8</item>
+        <item>This is Meme9</item>
+        <item>This is Meme10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/map"
+        android:title="Map"
+        android:icon="@drawable/paple"
+        ></item>
+    <item
+        android:id="@+id/bus__info"
+        android:title="Bus Information"
+        android:icon="@drawable/treewallnut"></item>
+    <item
+        android:id="@+id/about_us"
+        android:title="About Us"
+        android:icon="@drawable/leland"></item>
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/snowman"></item>
+</group>
+</menu>

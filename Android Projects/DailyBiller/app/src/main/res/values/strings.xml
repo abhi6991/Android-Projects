@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyBiller</string>
+    <string name="AddInfo">AddInfo</string>
+    <string name="ViewInfo">ViewInfo</string>
+    <string name="find">Find</string>
+
+</resources>

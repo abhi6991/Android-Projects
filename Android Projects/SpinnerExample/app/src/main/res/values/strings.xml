@@ -1,0 +1,30 @@
+ <resources>
+    <string name="app_name">SpinnerExample</string>
+    <string name="country_label">India</string>
+    <string-array name="countries_list">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>India</item>
+        <item>Saudi Arabia</item>
+        <item>Nepal</item>
+    </string-array>
+
+    <integer-array name="countries_flag_list">
+        <item>@drawable/afghanistan</item>
+        <item>@drawable/albania</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/bangladesh</item>
+        <item>@drawable/bhutan</item>
+        <item>@drawable/england</item>
+        <item>@drawable/finland</item>
+        <item>@drawable/india</item>
+        <item>@drawable/saudi_arabia</item>
+        <item>@drawable/nepal</item>
+    </integer-array>
+
+</resources>

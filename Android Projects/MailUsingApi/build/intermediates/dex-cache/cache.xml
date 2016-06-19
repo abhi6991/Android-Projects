@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioProjects\MailUsingApi\app\libs\activation.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_479aa6a016292e1b468e0643f5cfe910ced887e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fadc3cedc9afb5f9e4d16573aa7d31a598874b38\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\MailUsingApi\app\libs\additionnal.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_a4f9cb050e9e2014434b8426b7ce505672640dcc\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04bc437dd1bc63b67452dfac4e428db8e338fdbb">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f4a9d19753863f830e070b273132902c9f00b4c\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\MailUsingApi\app\libs\mail.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_facb13900060ecb2c37fd6e905589e0d1314d9e4\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c4e4d8474c920d53f4f3c5712253387c5e32e68e">
+        <dex dex="D:\android\AndroidStudioProjects\MailUsingApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d097aae6a6ee9c27eab81613fc31faff2013f29f\classes.dex" />
+    </item>
+
+</items>

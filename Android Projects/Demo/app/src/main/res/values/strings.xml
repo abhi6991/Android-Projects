@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Education</string>
+    <string name="register">Registration</string>
+    <string name="hello_world">Hello world!</string>
+<string name="login">Login</string>
+<string name="find">find</string>
+<string name="records">records</string>
+</resources>

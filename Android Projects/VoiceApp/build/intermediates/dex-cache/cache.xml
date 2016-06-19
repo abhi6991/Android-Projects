@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioProjects\VoiceApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e20d5bf32fd091ccf24d0c87472511f3d8aee34">
+        <dex dex="D:\android\AndroidStudioProjects\VoiceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e7c1bd7729addc047c945dc8eb19b48df9273bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android\AndroidStudioProjects\VoiceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fadc3cedc9afb5f9e4d16573aa7d31a598874b38\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\VoiceApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f149862b8c42612564d753a5d438dc2301d9788a">
+        <dex dex="D:\android\AndroidStudioProjects\VoiceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff79b838b38d80ffb51a77dab607c42286b05038\classes.dex" />
+    </item>
+
+</items>

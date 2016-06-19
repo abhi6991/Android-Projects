@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Bluetooth3Activity!</string>
+        <string name="action_settings">Settings</string>
+    <string name="app_name">Bluetooth3</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+
+</resources>

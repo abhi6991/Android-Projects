@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\war.png",
+        "source": "D:\\android\\AndroidStudioProjects\\VoiceApp\\app\\src\\main\\res\\drawable-hdpi\\war.png"
+    }
+]

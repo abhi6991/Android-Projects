@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_layout.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\src\\main\\res\\layout\\fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawel_list_item.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\src\\main\\res\\layout\\drawel_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\NavigableSliderDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

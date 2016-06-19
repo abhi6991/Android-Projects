@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bank Accounts Manager</string>
+    <string name="accountsprompt">Select Account</string>
+    <string name="title_activity_login">Bank Accounts Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_starting_point">StartingPoint</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_college">CollegeActivity</string>
+    <string name="title_activity_college_details">CollegeDetails</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_college_courses">CollegeCourses</string>
+    <string name="title_activity_college_placements">CollegePlacements</string>
+    <string name="title_activity_college_contact">CollegeContact</string>
+
+</resources>
